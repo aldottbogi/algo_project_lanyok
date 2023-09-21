@@ -1,11 +1,11 @@
 text1 = "Welcome to the Health status detection program!"
 
 
+txt_button = "start"
 
 
 
-
-text2 = "This application allows you to use the Rufier test to make an initial diagnosis of your health.\n"
+text22 = "This application allows you to use the Rufier test to make an initial diagnosis of your health.\n"
 "The Rufier test is a set of physichal exercises designed to assess your cardiac performance during physical exertion.\n"
 "The subject lies in the supine position for 5 minutes and has their pulse rate measured for 15 seconds;\n"
 "When the exercise ends, the subject lies down and their pulse rate measured again for the first 15 seconds\n"
