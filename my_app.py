@@ -22,7 +22,10 @@ class MainWin(QWidget):
         self.resize(win_width, win_height)
         self.move(win_x, win_y)
     
-    def initUI(self):
+    def set_appear(self):
+        self.setWindowTitle(txt_title)
+        self.resize(win_width, win_height)
+        self.move(win_x, win_y)
         self.hello_text = QLabel(text1)
         self.instruction = QLabel(text22)
         self.button = QPushButton(txt_button)
