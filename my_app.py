@@ -1,7 +1,7 @@
 from pyQt5.QtCore import Qt
 from pyQt5.Qwidgets import QApplication, QWidget, QPushButton, QLabel, QVBoxLayout
 from instr import *
-from second_win import TestWin()
+from second_win import TestWin
 app = QApplication([])
 main_win = QWidget
 main_win.show()
