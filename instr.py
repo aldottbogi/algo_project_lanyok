@@ -1,3 +1,6 @@
+txt_title = "Health"
+win_x, win_y = 200, 100
+win_width, win_height = 1000, 600
 text1 = "Welcome to the Health status detection program!"
 
 
@@ -25,8 +28,15 @@ text5 = "Perforn 30 squats in 45 seconds. To do this, click the ''Start doing sq
 buttontext2  = "Start doing squats"
 text6 = "Lie on your back and take your pulse for the first 15 seconds of the minute, then for the last 15 bseconds of the minute.minPress the "Start final test" button to  start the timer.\nThe seconds thatshould be measured are indicated  in green and the minutes that should not be measured are indicated in black. Write down the results in the appropriate fields."
 buttontext3 = "Start the final test"
+buttontext4 = "Send the results"
 
 
 text7 = "Roufler index:"
 text8 = "Cardiac performance:"
 text9 = "there is no data for this age"
+
+text10 = "Full name"
+text11 = "0"
+text12 = "0"
+text13 = "0"
+text14 = "0"
